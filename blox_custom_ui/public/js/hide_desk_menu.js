@@ -10,6 +10,7 @@
         "Frappe Support",
 	"Edit Profile",
 	"Toggle Theme",
+	"Search",
 	"Reset Desktop Layout"
     ];
 
