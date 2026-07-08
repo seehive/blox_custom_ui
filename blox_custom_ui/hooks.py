@@ -28,6 +28,8 @@ app_license = "mit"
 # app_include_css = "/assets/blox_custom_ui/css/blox_custom_ui.css"
 # app_include_js = "/assets/blox_custom_ui/js/blox_custom_ui.js"
 
+app_include_js = "/assets/blox_custom_ui/js/hide_desk_menu.js"
+
 # include js, css files in header of web template
 # web_include_css = "/assets/blox_custom_ui/css/blox_custom_ui.css"
 # web_include_js = "/assets/blox_custom_ui/js/blox_custom_ui.js"
